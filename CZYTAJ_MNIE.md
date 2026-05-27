@@ -1,10 +1,8 @@
-
-
 Gre znajdziemy w nastepującym folderze:
 app/src/main/assets
 
 
 
-<img width="880" height="628" alt="obraz_2026-05-27_153406321" src="https://github.com/user-attachments/assets/fd24b91f-3c38-4fd5-8774-2a4173f50252" />
 
+https://github.com/user-attachments/assets/108af795-dd4a-4234-9116-e8e2026422e1
 
