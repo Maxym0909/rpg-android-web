@@ -2,6 +2,7 @@ Gre znajdziemy w nastepującym folderze:
 app/src/main/assets
 
 Widok gdy załączymy gre
+
 <img width="543" height="484" alt="intro" src="https://github.com/user-attachments/assets/83f98a96-4a2f-4652-a548-54378b3e221c" />
 
 Następnie wybór klasy(w moim przypadku mag)
